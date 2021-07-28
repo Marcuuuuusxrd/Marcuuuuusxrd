@@ -23,3 +23,5 @@ Altyapılarda sorun bulursanız yazmaktan çekinmeyin <@'Mârcus#7449>
 <img src="https://img.shields.io/badge/HTML5%20-111111.svg?&style=for-the-badge&logo=HTML5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS%20-111111.svg?&style=for-the-badge&logo=CSS3&logoColor=white">
 </div>
+
+<a href="https://open.spotify.com/playlist/5GOm1iMHTEE8OBB8LwVAfN?si=ac682d10983e4b57" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-111111.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
