@@ -1,7 +1,7 @@
 Merhaba ben berk (Marcus) 18 yaşındayım 2 yıllık JS bilgim bulunuyor. Burada eski altyapılarımı paylaşacağım çoğu MongoDB databaseli olup bazıları ise v11 olacaktır en kısa sürede şuan kullandığım altyapılarıda paylaşacağım star atarsanız sevinirim <3
 
 Discord profilim aşağıdaki ımageye basarak ulaşabilirsiniz.
-Altyapılarda sorun bulursanız yazmaktan çekinmeyin <@Mârcus#2012>
+Altyapılarda sorun bulursanız yazmaktan çekinmeyin <@'Mârcus#7449>
 
 
 <div align="center">
