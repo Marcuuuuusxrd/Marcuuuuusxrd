@@ -25,3 +25,4 @@ Altyapılarda sorun bulursanız yazmaktan çekinmeyin <@'Mârcus#7449>
 </div>
 
 <img src="https://media.discordapp.net/attachments/869339307792564324/869753135298646016/ALOo_1.png?width=498&height=498">
+
