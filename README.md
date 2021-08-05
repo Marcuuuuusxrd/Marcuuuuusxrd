@@ -1,4 +1,4 @@
-Merhaba ben berk (Marcus) 18 yaşındayım 2 yıllık JS bilgim bulunuyor. Burada eski altyapılarımı paylaşacağım. Her türlü bot işleri için aşağıdaki imageden profilime ulaşabilirsiniz. Aşağıda görseller verdim birkaç yerini yaptığı botları vs çok beğendiğim birinden almış bulunmaktayım.
+# Merhaba ben berk (Marcus) 18 yaşındayım 2 yıllık JS bilgim bulunuyor. Burada eski altyapılarımı paylaşacağım. Her türlü bot işleri için aşağıdaki imageden profilime ulaşabilirsiniz. Aşağıda görseller verdim birkaç yerini yaptığı botları vs çok beğendiğim birinden almış bulunmaktayım.
 
 
 
@@ -21,20 +21,27 @@ Merhaba ben berk (Marcus) 18 yaşındayım 2 yıllık JS bilgim bulunuyor. Burad
 <img src="https://img.shields.io/badge/CSS%20-111111.svg?&style=for-the-badge&logo=CSS3&logoColor=white">
 </div>
 
+
+Şuanda botumun olduğu 2 sunucu
 <img src="https://media.discordapp.net/attachments/872859828266098689/872865571895644160/Web_Photo_Editor_6.jpg?width=498&height=498">
 
 
+Botta bulunan kullanıcının üstüne alınmış çıkarılmış rolleri listelediği database gibi birşey
 <img src="https://cdn.discordapp.com/attachments/872859828266098689/872865209423900713/unknown.png">
 
 
+Basit bir say komutudur.
 <img src="https://cdn.discordapp.com/attachments/872859828266098689/872864832460828702/unknown.png">
 
 
+Mute logdan minik bir görüntü
 <img src="https://cdn.discordapp.com/attachments/872859828266098689/872864653594751016/unknown.png">
 
 
+Hoşgeldin mesajı
 <img src="https://cdn.discordapp.com/attachments/872859828266098689/872864128191066162/unknown.png">
 
 
+Coin (yetki yükseltimli) stat botu
 <img src="https://cdn.discordapp.com/attachments/872859828266098689/872863434264440832/Ekran_Alnts.PNG">
 
