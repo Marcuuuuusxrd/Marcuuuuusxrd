@@ -4,4 +4,4 @@
 
 
 <div align="center">
-    <a href="https://discord.com/users/831474428465774602" target="_blank"><img src="https://shields.io/badge/Theark-111111.svg?&style=for-the-badge&logo=discord"></a>
+    <a href="https://discord.com/users/831474428465774602" target="_blank"><img src="https://shields.io/badge/Mârcus-111111.svg?&style=for-the-badge&logo=discord"></a>
