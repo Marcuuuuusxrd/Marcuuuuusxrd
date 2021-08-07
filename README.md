@@ -1,6 +1,8 @@
 
 
-# Hi I'm Mârcus. Discord developer & Turkish student ![](https://komarev.com/ghpvc/?username=your-github-Reyesex&color=511616)
+# Hi I'm Mârcus 👋 . Discord developer & Turkish student 
+
+#### ![](https://komarev.com/ghpvc/?username=your-github-Reyesex&color=511616)
 
 ## - Burada aktif olarak kullandığım altyapılarımı paylaşacağım yakın zamanda register ve moderation botumu paylaşıcam 2 projemede 30 star gelirse grafikli stat botu paylaşmayı düşünüyorum.
 
