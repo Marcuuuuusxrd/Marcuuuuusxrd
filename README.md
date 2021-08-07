@@ -14,22 +14,10 @@
 
 Profesyonel Botlar Yaptırmak için DM. My Systems;
 
- <code>1.</code> Moderation ,
- <code>2.</code> Manager ,
- <code>3.</code> Statistics ,
- <code>4.</code> Coin ,
- <code>5.</code> Chatting ,
- <code>6.</code> Backup ,
- <code>7.</code> Database ,
- <code>8.</code> Server Guard ,
- <code>9.</code> Role Guard ,
- <code>10.</code> Channel Guard ,
- <code>11.</code> Ticket ,
- <code>12.</code> Gif ,
+## <code>Yakında burada altyapılarımı paylaşacağım v12, v11 ve inş v13 altyapılar paylaşacağım star atarsanız çok çok mutlu olurum.</code>
 
 Ekip & Art & RP & Gif & Public Bots
 
-<img src="https://cdn.discordapp.com/avatars/831474428465774602/095bb31e97788ed10604e2a901bf3d2c.webp?size=2048">
 
 
 # My Github Stat's;
