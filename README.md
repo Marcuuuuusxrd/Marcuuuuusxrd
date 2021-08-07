@@ -4,7 +4,7 @@
 
 - Burada aktif olarak kullandığım altyapılarımı paylaşacağım yakın zamanda register ve moderation botumu paylaşıcam 2 projemede 30 star gelirse grafikli stat botu paylaşmayı düşünüyorum.
 
-- My Social Acc ;
+## - My Social Acc ;
 
 - Mârcus †#7449 (831474428465774602)
 - @marcus.salvo
