@@ -14,7 +14,7 @@
 
 Profesyonel Botlar Yaptırmak için DM. My Systems;
 
-## <code>Yakında burada altyapılarımı paylaşacağım v12, v11 ve inş v13 altyapılar paylaşacağım star atarsanız çok çok mutlu olurum.</code>
+## Yakında burada altyapılarımı paylaşacağım v12, v11 ve inş v13 altyapılar paylaşacağım star atarsanız çok çok mutlu olurum.
 
 Ekip & Art & RP & Gif & Public Bots
 
