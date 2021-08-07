@@ -1,7 +1,7 @@
 # Hi I'm Mârcus. Discord developer & Turkish student My Guilds;
 
- https://discord.gg/phestro
- https://discord.gg/2098
+ ## https://discord.gg/phestro
+ ## https://discord.gg/2098
 
 
 ![](https://komarev.com/ghpvc/?username=your-github-Reyesex&color=511616)
