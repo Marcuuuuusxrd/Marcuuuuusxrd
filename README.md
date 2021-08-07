@@ -1,7 +1,4 @@
-# Hi I'm Mârcus. Discord developer & Turkish student My Guilds;
-
- ## https://discord.gg/phestro
- ## https://discord.gg/2098
+# Hi I'm Mârcus. Discord developer & Turkish student
 
 
 ![](https://komarev.com/ghpvc/?username=your-github-Reyesex&color=511616)
@@ -24,3 +21,6 @@ Ekip & Art & RP & Gif & Public Bots
 
 <img width="47%" align="middle" src="https://github-readme-stats.vercel.app/api?username=Marcus1944&show_icons=true&hide_title=true&theme=merko">
 <img width="33%" align="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcus1944&show_icons=true&hide_title=true&theme=merko">
+
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/831474428465774602 )](https://discord.com/users/831474428465774602)
+</p>
