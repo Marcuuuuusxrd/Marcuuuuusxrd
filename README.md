@@ -34,5 +34,5 @@ Ekip & Art & RP & Gif & Public Bots
 
 
 <p align = "center"> <img src="https://profile-counter.glitch.me/{Jyros}/count.svg" width="30%" align="middle"/> </p>
-<img width="47%" align="middle" src="https://github-readme-stats.vercel.app/api?username=Jyros&show_icons=true&hide_title=true&theme=merko">
-<img width="33%" align="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jyros&show_icons=true&hide_title=true&theme=merko">
+<img width="47%" align="middle" src="https://github-readme-stats.vercel.app/api?username=Marcus1944&show_icons=true&hide_title=true&theme=merko">
+<img width="33%" align="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcus1944&show_icons=true&hide_title=true&theme=merko">
