@@ -1,4 +1,4 @@
-## Hi I'm Mârcus. Discord developer & Turkish student My Guilds;
+# Hi I'm Mârcus. Discord developer & Turkish student My Guilds;
 
 # https://discord.gg/phestro
 # https://discord.gg/2098
