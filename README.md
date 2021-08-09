@@ -10,11 +10,10 @@ Selamlar ben Mârcus 2 yıllık js bilgim bulunuyor gecen sene bir arkadaşın t
 
 ## - Öncesinde bot yaptığım büyük sunucular ;
 
-⍭ Venus - (1.5K) ,
-✰ Narcos - (3K) ,
-✦ Narcos  - (1.5k) ,
-✯ Arsenic - (5K)
-
+### ⍭ Venus - (1.5K) ,
+### ✰ Narcos - (3K) ,
+### ✦ Narcos  - (1.5k) ,
+### ✯ Arsenic - (5K)
 
 ## - Burada aktif olarak kullandığım altyapılarımı paylaşacağım yakın zamanda register ve moderation botumu paylaşıcam 2 projemede 30 star gelirse grafikli stat botu paylaşmayı düşünüyorum.
 
