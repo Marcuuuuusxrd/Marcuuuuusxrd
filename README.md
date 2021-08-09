@@ -38,6 +38,6 @@ Selamlar ben Mârcus 2 yıllık js bilgim bulunuyor gecen sene bir arkadaşın t
 - @marcus.salvo
 
 # My Github Stat's;
-<img width="47%" align="middle" src="https://github-readme-stats.vercel.app/api?username=Marcusloo&show_icons=true&hide_title=true&theme=merko">
-<img width="33%" align="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcusloo&show_icons=true&hide_title=true&theme=merko">
+<img width="47%" align="middle" src="https://github-readme-stats.vercel.app/api?username=Marcuslooo&show_icons=true&hide_title=true&theme=merko">
+<img width="33%" align="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcuslooo&show_icons=true&hide_title=true&theme=merko">
 
