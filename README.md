@@ -5,14 +5,14 @@
 #### ![](https://komarev.com/ghpvc/?username=your-github-Reyesex&color=511616)
 
 # - About ME
-─────────────────────────────────────────
+## ─────────────────────────────────────────
 Selamlar ben Mârcus 2 yıllık js bilgim bulunuyor gecen sene bir arkadaşın tavsiyesiyle bu işe başladım rozetli botcuydum ortağım dediğim kahpe altyapılarımı çalana kadar. Bu olay sonrasında hesabımla geriye kalan altyapılarımı sattım ve bir süre hiç bi şekilde ne kod nede botla ilgilendim. Bir kaç maddi sıkıntılarımdan dolayı tekrar başladım. Şimdilerde minik publara ücretsiz bir şekilde hizmet veriyorum dmden ulaşıp sizlerde bot yaptırabilirsiniz. Bir kaç sunucu daha edindikten sonra büyüyeceğinden emin olduğum deneyimli ownerların actığı sunuculara yazmayı düşünüyorum
 
 ## - Öncesinde bot yaptığım büyük sunucular ;
 
-⍭ Venus - (1.5K)
-✰ Narcos - (3K)
-✦ Narcos  - (1.5k)
+⍭ Venus - (1.5K) ,
+✰ Narcos - (3K) ,
+✦ Narcos  - (1.5k) ,
 
 
 ## - Burada aktif olarak kullandığım altyapılarımı paylaşacağım yakın zamanda register ve moderation botumu paylaşıcam 2 projemede 30 star gelirse grafikli stat botu paylaşmayı düşünüyorum.
