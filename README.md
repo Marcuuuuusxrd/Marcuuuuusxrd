@@ -15,6 +15,19 @@ Selamlar ben Mârcus 2 yıllık js bilgim bulunuyor gecen sene bir arkadaşın t
 ### ✦ Narcos  - (1.5k) ,
 ### ✯ Arsenic - (5K)
 
+## - Botumun olduğu veya olmuş sunucular ;
+
+### ✰ Venus
+### † Lucania
+### ✦ Lucania
+### ✯ Starling
+### ✯ Maveria
+### ✬ Monarch
+### ✧ Athenna
+### Shen #2098
+### Savo #0084
+### Fly #1722
+
 ## - Burada aktif olarak kullandığım altyapılarımı paylaşacağım yakın zamanda register ve moderation botumu paylaşıcam 2 projemede 30 star gelirse grafikli stat botu paylaşmayı düşünüyorum.
 
 ### - My Social Acc ;
