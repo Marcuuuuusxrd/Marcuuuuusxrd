@@ -27,6 +27,8 @@ Selamlar ben Mârcus 2 yıllık js bilgim bulunuyor gecen sene bir arkadaşın t
 ### Shen #2098
 ### Savo #0084
 ### Fly #1722
+### - Venus , Lucania , Narcos sunucuları patlayıp farklı taglarda açılmıştı.
+
 
 ## - Burada aktif olarak kullandığım altyapılarımı paylaşacağım yakın zamanda register ve moderation botumu paylaşıcam 2 projemede 30 star gelirse grafikli stat botu paylaşmayı düşünüyorum.
 
