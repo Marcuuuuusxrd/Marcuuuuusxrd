@@ -2,7 +2,7 @@
 
 # Hi I'm Mârcus 👋 . Discord developer & Turkish student 
 
-#### ![](https://komarev.com/ghpvc/?username=your-github-thearkxd&color=511616)
+#### ![](https://komarev.com/ghpvc/?username=your-github-Marcuslooo&color=511616)
 
 # - About ME
 ## ─────────────────────────────────────────
