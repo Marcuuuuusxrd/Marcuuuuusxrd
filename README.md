@@ -38,6 +38,9 @@
 ### Fly #1722
 ### - Venus , Lucania , Narcos sunucuları patlayıp farklı taglarda açılmıştı.
 
+## - My Bot's;
+
+### <img src="https://im3.ezgif.com/tmp/ezgif-3-3ac3db30748a.jpg">
 
 ## - Burada aktif olarak kullandığım altyapılarımı paylaşacağım yakın zamanda register ve moderation botumu paylaşıcam 2 projemede 30 star gelirse grafikli stat botu paylaşmayı düşünüyorum.
 
