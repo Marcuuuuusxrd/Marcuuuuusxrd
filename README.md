@@ -4,9 +4,9 @@
 
 #### ![](https://komarev.com/ghpvc/?username=your-github-Marcuslooo&color=511616)
 
-# - Botculuk Hayatım Ne Var Ne Yok Anlattım.
+# - About me
 ## ────────────────────────────────────────────────────────
-
+Öncelikle merhaba bunu okuyan kardeşim ben Mârcus 18 yaşındayım 1.5 yıllık botcuyum (rozetli botcuyum) ilk botumda developer rozeti edindim ardından maddi yönden kötü bir zamanda olduğum için altyapılarımı ve hesabımı sattım. 6 ay oyunca hiç bir şekilde vsc açmadım. 6 ay sonrasında bir arkadaşımın sunucusu için baştan sona 9 bot yazdım. Sonrasında yine istek üzerine botlar yaptım ve tekrar başlamışlığımın içinde bulundum.
 
 # - Yeni yeni "Botcu" Kavramına Ulaşmış İnsanlara Önerim;
 ## ────────────────────────────────────────────────────────
