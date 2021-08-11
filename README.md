@@ -6,7 +6,7 @@
 
 # - Botculuk Hayatım Ne Var Ne Yok Anlattım.
 ## ────────────────────────────────────────────────────────
-Selamlar ben Mârcus 1.5 yıllık rozetli botcuyum. 2 yıllık js bilgim bulunuyor aktif olarak 3 yıldır discord kullanıyorum. Bir arkadaşım vasıtasıyla discordda bot hizmeti vermeye başladım. 1. yılımda ortak edindim kendisi benden habire altyapı, kod istiyordu bende iyi nihetimden dolayı veriyordum. Bir gün 100 kişilik bir public sunucuda benim botlarımın altyapısını gördüm oranın botcusuna yazdım nereden aldın diye ve bana *** kişisi sattı dedi ardından ortağımla konuştum ve bana knk MADDI nedenlerden sattım dedi. Bu olaydan sonra altyapılarımın çok çok fazla derecede kullanıldığını gördüm nedeni **KAHPE** arkadaşımın altyapıları paylaştırması ve github hesabında paylaşması ve ben bu insan nedeniyle botcluğua ara verdim. 6 Ay boyunca publarda ekiplerde takıldım. 6 ay sonrasında tekrardan başladım boost veya ücret karşılığı yapıyorum. Kahpe ortağımı şimdilerde tanıyor dahi olabilirsiniz...
+
 
 # - Yeni yeni "Botcu" Kavramına Ulaşmış İnsanlara Önerim;
 ## ────────────────────────────────────────────────────────
