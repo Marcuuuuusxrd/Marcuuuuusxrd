@@ -24,6 +24,9 @@ Selamlar ben Mârcus 2 yıllık js bilgim bulunuyor gecen sene bir arkadaşın t
 ### ✯ Maveria
 ### ✬ Monarch
 ### ✧ Athenna
+### ✯ Chester
+### ∞ Sianora
+### ✬ Wess
 ### Shen #2098
 ### Savo #0084
 ### Fly #1722
