@@ -11,8 +11,8 @@ Selamlar ben Mârcus 1.5 yıllık rozetli botcuyum. 2 yıllık js bilgim bulunuy
 # - Yeni yeni "Botcu" Kavramına Ulaşmış İnsanlara Önerim;
 ## ────────────────────────────────────────────────────────
 
-Hazır altyapı kullanmayın bu sizin botculuğunuzu etkiler,
-Ortak edinmeyin belanızı sikiolar bak halime.
+### Hazır altyapı kullanmayın bu sizin botculuğunuzu etkiler,
+### Ortak edinmeyin belanızı sikiolar bak halime.
 
 ## - Öncesinde bot yaptığım büyük sunucular ;
 
