@@ -14,7 +14,7 @@ Selamlar ben Mârcus 1.5 yıllık rozetli botcuyum. 2 yıllık js bilgim bulunuy
 ### Hazır altyapı kullanmayın bu sizin botculuğunuzu etkiler,
 ### Ortak edinmeyin belanızı sikiolar bak halime.
 
-## - Öncesinde bot yaptığım büyük sunucular ;
+# - Öncesinde bot yaptığım büyük sunucular ;
 
 ### ⍭ Venus - (1.5K) ,
 ### ✰ Narcos - (3K) ,
